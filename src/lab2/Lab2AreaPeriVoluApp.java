@@ -26,8 +26,10 @@ public class Lab2AreaPeriVoluApp {
                                 "How about you enter that room's length. This is going to be the longest measurement across the floor. In inches.");
 
                         length = read.nextDouble();
+
                         System.out.println(
                                 "Now, let's get that width. This will be the other mesaurement along the floor. In inches.");
+
                         width = read.nextDouble();
                         System.out.println("Perfect. Now, the ultimate dimension: Height. Still in inches.");
                         height = read.nextDouble();
